@@ -46,7 +46,7 @@
         <groupId>org.jahia.modules</groupId>
         <version>7.0.0.0</version>
     </parent>
-    <version>2.0.1</version>
+    <version>2.0.2-SNAPSHOT</version>
     <artifactId>templates-web</artifactId>
     <name>Jahia Web Templates</name>
     <packaging>bundle</packaging>
@@ -55,7 +55,7 @@
         <connection>scm:git:git@github.com:Jahia/templates-web.git</connection>
         <url>scm:git:git@github.com:Jahia/templates-web.git</url>
         <developerConnection>scm:git:git@github.com:Jahia/templates-web.git</developerConnection>
-      <tag>2_0_1</tag>
+      <tag>HEAD</tag>
   </scm>
     <repositories>
         <repository>
